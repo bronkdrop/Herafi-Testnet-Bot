@@ -29,7 +29,7 @@
 Herafi_BOT/
 ├── LICENSE            # ライセンス情報
 ├── .env.example       # 環境変数設定のテンプレート
-├── autoBot.js         # メインスクリプト
+├── index.js         # メインスクリプト
 ├── package.json       # メタ情報と npm 依存関係
 └── README.md          # このドキュメント
 ```
