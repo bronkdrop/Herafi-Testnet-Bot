@@ -28,7 +28,7 @@ Herafi\_BOT là một bot giao diện dòng lệnh (CLI) dựa trên Node.js, đ
 Herafi_BOT/
 ├── LICENSE            # Thông tin giấy phép
 ├── .env.example       # Mẫu cấu hình môi trường
-├── autoBot.js         # Script chính
+├── index.js         # Script chính
 ├── package.json       # Metadata và các gói npm
 └── README.md          # Tài liệu này
 ```
