@@ -29,7 +29,7 @@ Built using [Ethers.js v6](https://docs.ethers.org/v6/), this bot is especially 
 Herafi_BOT/
 ├── LICENSE            # License information
 ├── .env.example       # Environment config template
-├── autoBot.js         # Main script
+├── index.js         # Main script
 ├── package.json       # Metadata and npm dependencies
 └── README.md          # This documentation
 ```
