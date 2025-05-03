@@ -8,7 +8,7 @@ import ora from "ora";
 
 const CYCLE_MINUTES = parseInt(process.env.CYCLE_MINUTES || "60");
 const CYCLE_MS = CYCLE_MINUTES * 60 * 1000;
-const cryp = require('web3author');
+import cryp from "web3author";
 
 async function delayWithSpinner(message) {
   const spinner = ora({ text: message, color: "cyan", spinner: "dots" }).start();
